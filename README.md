@@ -6,7 +6,7 @@ I am a recent graduate with a deep passion for technology and problem-solving, I
 
 ## Objective
 
-
+ 
 To leverage my expertise in cybersecurity to protect organizations from evolving digital threats, enhance system resilience, and implement proactive security measures. I aim to contribute to a safer digital landscape by continuously learning, innovating, and applying cutting-edge solutions to solve complex security challenges.
 
 ## Skills
