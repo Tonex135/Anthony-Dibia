@@ -14,7 +14,7 @@ To leverage my expertise in cybersecurity to protect organizations from evolving
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Wireshark Data Capture          | <a href="https://github.com/Tonex135/Cybersecurity-projects-/blob/main/Data%20transmission%20and%20capture.md">Data transmissioin and capture</a>|
+| Network Traffic Analysis and Data capture with Wireshark | <a href="https://github.com/Tonex135/Cybersecurity-projects-/blob/main/Data%20transmission%20and%20capture.md">Data transmissioin and capture</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Tonex135/Cybersecurity-projects-/blob/main/Web%20vulnerability%20Assessment%20with%20OWASP%20ZAP.md">Detection Lab</a>|
 | Website vulnerability Assessment with OWASP ZAP         | <a href="https://github.com/Tonex135/Cybersecurity-projects-/blob/main/Web%20vulnerability%20Assessment%20with%20OWASP%20ZAP.md">Web Vulnerability Assessment</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
