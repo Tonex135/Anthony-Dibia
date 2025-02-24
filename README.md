@@ -1,4 +1,4 @@
-# Hello, I'm Anthony Dibia
+# Hello, I'm Anthony
 <a href="https://www.linkedin.com/in/anthony-dibia-61979b333"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction]
