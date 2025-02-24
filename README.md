@@ -15,11 +15,9 @@ To leverage my expertise in cybersecurity to protect organizations from evolving
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Network Traffic Analysis and Data capture with Wireshark | <a href="https://github.com/Tonex135/Cybersecurity-projects-/blob/main/Data%20transmission%20and%20capture.md">Data transmissioin and capture</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Tonex135/Cybersecurity-projects-/blob/main/Web%20vulnerability%20Assessment%20with%20OWASP%20ZAP.md">Detection Lab</a>|
+| Network Security | <a href="https://github.com/Tonex135/Cybersecurity-projects-/blob/main/Remote%20Access%20Using%20SSH.md">Remote Access using SSH</a>|
 | Website vulnerability Assessment with OWASP ZAP         | <a href="https://github.com/Tonex135/Cybersecurity-projects-/blob/main/Web%20vulnerability%20Assessment%20with%20OWASP%20ZAP.md">Web Vulnerability Assessment</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 
 ## Tools
 
@@ -77,3 +75,4 @@ To leverage my expertise in cybersecurity to protect organizations from evolving
 ## Projects
 - <a href="https://github.com/Tonex135/Cybersecurity-projects-/blob/main/Data%20transmission%20and%20capture.md">Data transmissioin and capture</a>
 - <a href="https://github.com/Tonex135/Cybersecurity-projects-/blob/main/Web%20vulnerability%20Assessment%20with%20OWASP%20ZAP.md">Web Vulnerability Assessment</a>
+- <a href="https://github.com/Tonex135/Cybersecurity-projects-/blob/main/Remote%20Access%20Using%20SSH.md">Remote Access using SSH</a>
