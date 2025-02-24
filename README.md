@@ -76,4 +76,4 @@ To leverage my expertise in cybersecurity to protect organizations from evolving
 
 ## Projects
 - <a href="https://github.com/Tonex135/Cybersecurity-projects-/blob/main/Data%20transmission%20and%20capture.md">Data transmissioin and capture</a>
-- SOC Automation Project
+- <a href="https://github.com/Tonex135/Cybersecurity-projects-/blob/main/Web%20vulnerability%20Assessment%20with%20OWASP%20ZAP.md">Web Vulnerability Assessment</a>
