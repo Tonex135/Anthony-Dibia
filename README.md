@@ -14,7 +14,7 @@ To leverage my expertise in cybersecurity to protect organizations from evolving
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/Tonex135/Cybersecurity-projects-/blob/main/Data%20transmission%20and%20capture.md">Data transmissioin and capture</a>|
+| Wireshark data capture          | <a href="https://github.com/Tonex135/Cybersecurity-projects-/blob/main/Data%20transmission%20and%20capture.md">Data transmissioin and capture</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
