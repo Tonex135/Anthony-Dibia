@@ -10,13 +10,13 @@ I am a recent graduate with a deep passion for technology and problem-solving, I
 To leverage my expertise in cybersecurity to protect organizations from evolving digital threats, enhance system resilience, and implement proactive security measures. I aim to contribute to a safer digital landscape by continuously learning, innovating, and applying cutting-edge solutions to solve complex security challenges.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Wireshark Data Capture          | <a href="https://github.com/Tonex135/Cybersecurity-projects-/blob/main/Data%20transmission%20and%20capture.md">Data transmissioin and capture</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Website vulnerability Assessment with OWASP ZAP         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
