@@ -1,12 +1,11 @@
 # Hello, I'm Anthony
 <a href="https://www.linkedin.com/in/anthony-dibia-61979b333"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction]
 
 I am a recent graduate with a deep passion for technology and problem-solving, I thrive on tackling complex challenges to safeguard digital systems. 
 
 ## Objective
-[Provide Objective]
+
 
 To leverage my expertise in cybersecurity to protect organizations from evolving digital threats, enhance system resilience, and implement proactive security measures. I aim to contribute to a safer digital landscape by continuously learning, innovating, and applying cutting-edge solutions to solve complex security challenges.
 
